@@ -1,1 +1,1 @@
-This ipl 2022 project made for data visualization 
+Performed data analysis and visualization on the IPL 2022 dataset using Python. Generated insights on team performance, top batsmen, top bowlers, venue patterns, and match outcomes using charts such as bar plots, heatmaps, and trend graphs. Created a clean analytical report to interpret key patterns and performance metrics.
